@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicDailyNotesApp</string>
+    <string name="notes">NOTES</string>
+    <string name="add_new_note">Add new note</string>
+    <string name="decription">Decription</string>
+    <string name="title">Title</string>
+    <string name="description" />
+</resources>
