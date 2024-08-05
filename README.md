@@ -5,13 +5,6 @@ their notes seamlessly.</p>
 
 <p>Credits for the design goes to <a href=https://www.linkedin.com/in/malay-singh-73881322b/'>Malay Singh</a></p>
 
-<h3>Things i used to build this app:</h3>
-» Jetpack Compose <br>
-» Clean Architecture  <br>
-» MVVM  <br>
-» Kotlin  <br>
-» Retrofit  <br>
-» Coin
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
